@@ -1,0 +1,6 @@
+export enum QuizStatus {
+  STARTED = "STARTED",
+  PENDING = "PENDING",
+  FINISHED = "FINISHED",
+  NOT_STARTED = "NOT_STARTED",
+}
